@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-~~My Favorite Series/ Movies.~~
+** My Favorite Series and Movie**
 1.The Prison Break
 2. Grey's Anatomy
 3. Lupin
